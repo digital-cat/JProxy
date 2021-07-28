@@ -1,6 +1,6 @@
 # JProxy について
 
-JProxyは、株式会社ジェーン(http://janesoft.net/)のWindows用Twitterクライアントソフトウェア「Janetter for Windows」(http://janetter.net/jp/desktop.html)でユーザーのプロフィール画像を表示できない問題を解決するために作成したソフトウェアです。
+JProxyは、株式会社ジェーン http://janesoft.net/ のWindows用Twitterクライアントソフトウェア「Janetter for Windows」http://janetter.net/jp/desktop.html でユーザーのプロフィール画像を表示できない問題を解決するために作成したソフトウェアです。
 
 ---
 ## インストール
